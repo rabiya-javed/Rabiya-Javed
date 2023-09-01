@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MERN Stack Development**
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT.**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, Reactjs, Express, Database, Mongodb**
 
 - 📫 How to reach me **https://www.linkedin.com/in/rabiya-javed/**
 

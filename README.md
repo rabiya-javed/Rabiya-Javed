@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rabiya Javed</h1>
 <h3 align="center">I AM CURRENTLY PURSUING MERN STACK DEVELOPMENT.</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fsinemozturk%2Fsinemozturk&psig=AOvVaw3GutMVIjn-Z7pNNHtNtvfe&ust=1729687244696000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNCZ5p-BookDFQAAAAAdAAAAABAJ">
+<img align="right" alt="coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fsinemozturk%2Fsinemozturk&psig=AOvVaw3GutMVIjn-Z7pNNHtNtvfe&ust=1729687244696000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNCZ5p-BookDFQAAAAAdAAAAABAJ](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw28IvpHMWc-FfDyUkZUyG5H&ust=1729687724280000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPD0i4eDookDFQAAAAAdAAAAABAE)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabiya-javed&label=Profile%20views&color=0e75b6&style=flat" alt="rabiya-javed" /> </p>
 

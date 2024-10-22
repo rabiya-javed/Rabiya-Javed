@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rabiya Javed</h1>
 <h3 align="center">I AM CURRENTLY PURSUING MERN STACK DEVELOPMENT.</h3>
 
-<img align="right" alt="coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fsanjanahumanintech.medium.com%2Fmastering-asynchronous-javascript-4afa7e504d26&psig=AOvVaw1_6X3eWQNxxeALWHQ-zMxT&ust=1729688040089000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPCesJ2EookDFQAAAAAdAAAAABAJ](https://miro.medium.com/v2/resize:fit:640/format:webp/1*uYkZXXw-QL-N_1gVndPH9A.gif)">
+<img align="right" alt="coding" width="400" src="[[https://www.google.com/url?sa=i&url=https%3A%2F%2Fsanjanahumanintech.medium.com%2Fmastering-asynchronous-javascript-4afa7e504d26&psig=AOvVaw1_6X3eWQNxxeALWHQ-zMxT&ust=1729688040089000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPCesJ2EookDFQAAAAAdAAAAABAJ](https://miro.medium.com/v2/resize:fit:640/format:webp/1*uYkZXXw-QL-N_1gVndPH9A.gif)](https://miro.medium.com/v2/resize:fit:640/format:webp/1*uYkZXXw-QL-N_1gVndPH9A.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabiya-javed&label=Profile%20views&color=0e75b6&style=flat" alt="rabiya-javed" /> </p>
 
